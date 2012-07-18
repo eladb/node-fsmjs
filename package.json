@@ -3,7 +3,7 @@
     "description": "State machines are back",
     "main": "./main",
     "author": "Elad Ben-Israel <elad.benisrael@gmail.com>",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "contributors": [ ],
     "keywords": [
         "fsm",
@@ -15,7 +15,7 @@
     },
     "license": "MIT",
     "engines": {
-        "node": "~0.6.6"
+        "node": ">=0.6.6"
     },
     "devDependencies": {
         "nodeunit": "0.6.x",
